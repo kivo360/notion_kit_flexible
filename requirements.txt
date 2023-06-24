@@ -1,5 +1,2 @@
-###### Requirements without Version Specifiers ######
 pytz
-
-###### Requirements with Version Specifiers ######
-notion-client >= 2.0.0
+notion-client>=2.0.0
